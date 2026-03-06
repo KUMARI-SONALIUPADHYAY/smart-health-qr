@@ -83,3 +83,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/KUMARI-SONALIUPADHYAY/smart-health-qr.git
+
+## 🌐 Live Demo
+
+https://smart-health-qr-demo.vercel.app
