@@ -61,22 +61,21 @@ This helps doctors make **faster and safer decisions during critical situations*
 
 ## 📷 Screenshots
 
-### 🏠 Landing Page
-![Landing Page](landing.png)
 
-### ⚙️ Features Section
-![Features](features.png)
+### Landing Page
+![Landing Page](screenshots/landing.png)
 
-### 📝 Patient Registration
-![Register](register.png)
+### Features
+![Features](screenshots/features.png)
 
-### 👨‍⚕️ Doctor Portal
-![Doctor Portal](doctor.png)
+### Patient Registration
+![Register](screenshots/register.png)
 
-### 🔄 System Workflow
-![Workflow](workflow.png)
+### Doctor Portal
+![Doctor](screenshots/doctor.png)
 
----
+### System Workflow
+![Workflow](screenshots/workflow.png)
 
 ## 💻 Installation & Setup
 
